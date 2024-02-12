@@ -1,1 +1,17 @@
 welcome git
+
+git intit
+
+git add .
+
+git add two.txt
+
+git commit -m"first"
+
+git status
+
+git branch
+
+git checkout -b sample
+
+git checkout master >> switch
